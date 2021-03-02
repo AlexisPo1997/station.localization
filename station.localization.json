@@ -3447,7 +3447,7 @@
       "fi": "SYNKRONOI",
       "ru": "СКАЧАТЬ",
       "sv": "SYNK",
-      "fr": "SYNCHRONISATION"
+      "fr": "SYNCHRONISER"
     },
     {
       "ident_ios": "",
@@ -3465,7 +3465,7 @@
       "fi": "Ladataanko historiatiedot anturista?",
       "ru": "Вы уверены что хотите синхронизировать данные с устройством?",
       "sv": "Ladda ner historik-data från sensorn?",
-      "fr": "Souhaitez vous importer les données du capteur?"
+      "fr": "Souhaitez-vous importer les données du capteur?"
     },
     {
       "ident_ios": "WebTagSettings.Label.TagName.text",
