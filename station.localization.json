@@ -88,7 +88,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Держать Соединение",
       "sv": "Håll Anslutningen",
-      "fr": "Maintenir la connection"
+      "fr": "Maintenir la connexion"
     },
     {
       "ident_ios": "Background.SaveHeartbeats.title",
@@ -178,7 +178,7 @@
       "fi": "Laitteessasi on yhteyden säilyttämiseen pystyvä laiteohjelmisto. Haluatko pitää yhteyden avoinna tähän Ruuvi-laitteeseen ohjelman ollessa taustalla? Tämä mahdollistaa historian ja hälytysten toiminnan ohjelman ollessa pienennettynä.",
       "ru": "На вашем устройстве установлена прошивка, поддерживающая соединение. Хотите поддерживать соединение активным для этого устройства в фоновом режиме? Это позволит использовать графики и уведомления даже когда приложение закрыто.",
       "sv": "Det ser ut som din Ruuvi enhet har anslutningsbar firmware. Vill du att anslutningen till enheten skall hållas öppen i bakgrunden? Detta gör att histogram och alarm fungerar även om applikationen är minimerad.",
-      "fr": "Votre appareil est programmé pour conserver la connection. Souhaitez-vous maintenir la connection en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée."
+      "fr": "Votre appareil est programmé pour conserver la connexion. Souhaitez-vous maintenir la connexion en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée."
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
@@ -196,7 +196,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Установить Соединение",
       "sv": "Håll Anslutningen",
-      "fr": "Maintenir la connection"
+      "fr": "Maintenir la connexion"
     },
     {
       "ident_ios": "Cards.Connected.title",
@@ -349,7 +349,7 @@
       "fi": "Yhteyden aikakatkaisu",
       "ru": "Таймаут (соед.)",
       "sv": "Anslutningstimeout",
-      "fr": "Temporisation de la connection"
+      "fr": "Temporisation de la connexion"
     },
     {
       "ident_ios": "Defaults.ServiceTimeout.title",
@@ -574,7 +574,7 @@
       "fi": "Aiemmin yhdistettyä laitetta ei voida poistaa ilman Bluetooth-yhteyttä. Tarkasta Bluetooth-yhteyden tila.",
       "ru": "Не удалось удалить подключенный сенсор, так как он недоступен. Пожалуйста, проверьте соединение по Bluetooth.",
       "sv": "Det går inte att ta bort en ansluten enhet som inte kan nås. Kontrollera Bluetooth-anslutningen.",
-      "fr": "Un capteur enregistré ne peut être supprimé sans connection Bluetooth. Vérifiez la connection."
+      "fr": "Un capteur enregistré ne peut être supprimé sans connexion Bluetooth. Vérifiez la connexion."
     },
     {
       "ident_ios": "ExportService.Date",
@@ -1204,7 +1204,7 @@
       "fi": "Katkaistaan yhteyttä...",
       "ru": "Разрываю соединение...",
       "sv": "Avbryter anslutning...",
-      "fr": "Déconnection..."
+      "fr": "Déconnexion..."
     },
     {
       "ident_ios": "TagCharts.Status.Success",
@@ -1456,7 +1456,7 @@
       "fi": "YHTEYS",
       "ru": "СОЕДИНЕНИЕ",
       "sv": "ANSLUTNING",
-      "fr": "CONNECTION"
+      "fr": "CONNEXION"
     },
     {
       "ident_ios": "TagSettings.KeepConnection.title",
@@ -1465,7 +1465,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Держать Соединение",
       "sv": "Behåll Anslutningen",
-      "fr": "Veuillez maintenir la connection"
+      "fr": "Veuillez maintenir la connexion"
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
@@ -1546,7 +1546,7 @@
       "fi": "Yhdistetään...",
       "ru": "Соединяюсь...",
       "sv": "Ansluter...",
-      "fr": "Connection..."
+      "fr": "Connexion..."
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
@@ -1609,7 +1609,7 @@
       "fi": "Yhteys",
       "ru": "Соединение",
       "sv": "Anslutning",
-      "fr": "Connection"
+      "fr": "Connexion"
     },
     {
       "ident_ios": "UnexpectedError.callbackErrorAndResultAreNil",
@@ -2330,7 +2330,7 @@
       "fi": "Yhdistetään...",
       "ru": "Соединение...",
       "sv": "Ansluter...",
-      "fr": "Connection..."
+      "fr": "Connexion..."
     },
     {
       "ident_ios": "",
